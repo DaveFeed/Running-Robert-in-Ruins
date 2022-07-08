@@ -1,5 +1,4 @@
 # VK Music RPC for Discord
-![Full size](./pictures/full.png)<br>
 A small project I did while having fun with friends.<br>
 This mini game is about one of my friends and his teacher having a fight.<br>
 It just a sample of me trying new languages and just having fun.<br>
